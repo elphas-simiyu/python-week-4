@@ -20,8 +20,8 @@ def read_and_write_file(input_file, output_file):
         print(f"An error occurred: {e}")
 
 # Example usage
-input_filename = "input.txt"  # Replace with your input file name
-output_filename = "output.txt"  # Replace with your desired output file name
+input_filename = "input.txt"  
+output_filename = "output.txt"  
 
 # Run the function
 read_and_write_file(input_filename, output_filename)
